@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sronelf
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JavaScript and Node.js
 - 📫 How to reach me sronelf#2021
 - 👨‍💻 Arnew Owner & Lead Developer
 
